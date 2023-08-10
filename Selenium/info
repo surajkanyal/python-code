@@ -1,0 +1,7 @@
+Selenium webdriver helps us to automate our browser like clicking writing etc
+
+Selenium is primarily used for browser automation and testing. It allows you to control a web browser programmatically, interact with web elements, and perform actions like clicking buttons, filling forms, and navigating through web pages. Selenium supports multiple browsers and provides a more interactive and dynamic approach to web scraping. 
+ 
+On the other hand, Beautiful Soup is a Python library used for parsing HTML and XML documents. It provides a convenient way to extract data from web pages by navigating and searching through the HTML structure. 
+
+You can use in automating many thing but it  can be more useful if we automate filling in forms or transeferring information from excel spreadsheet to a online Google form or etc
