@@ -1,0 +1,13 @@
+from turtle import Turtle,Screen
+ace = Turtle()
+my_screen=Screen()
+ace.color('coral')
+ace.shape('turtle')
+ace.forward(100)
+ace.left(90)
+ace.forward(100)
+ace.left(90)
+ace.forward(100)
+ace.left(90)
+ace.forward(100)
+my_screen.exitonclick()
